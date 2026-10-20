@@ -14,6 +14,8 @@ Usa **SALIR → Guardar y cerrar** antes de cerrar la pestaña. Tu avance y los 
 
 [ZIP para servir localmente e instrucciones](https://github.com/villavics/quantum-gate-descargas/releases/tag/web-2026.10.20-r3). La primera visita prepara automáticamente el navegador y recarga una vez para habilitar el audio con hilos.
 
+Si ya descargaste el ZIP y tienes Python 3 instalado, añade [los lanzadores automáticos (3 KB)](https://github.com/villavics/quantum-gate-descargas/releases/download/web-2026.10.20-r3/Lanzadores_Quantum_Gate.zip) junto a `index.html`, sustituyendo `serve.py`. Después abre **Jugar en Windows.bat**, **Jugar en Mac.command** o ejecuta **Jugar en Linux.sh** como programa. El servidor y el navegador se abren automáticamente; mantén la ventana del lanzador abierta mientras juegas.
+
 ## Descargar para Mac
 
 **[Descargar Quantum Gate 1.31 para Mac con Apple Silicon](https://github.com/villavics/quantum-gate-descargas/releases/download/v1.31/Quantum_Gate_1.31_macOS_AppleSilicon.zip)** · aproximadamente 192 MB.
